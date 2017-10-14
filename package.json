@@ -1,0 +1,16 @@
+{
+  "name": "waves",
+  "version": "1.0.0",
+  "description": "Simple visual for waves",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "waves"
+  ],
+  "author": "Louise Hermosa",
+  "license": "Unlicense"
+}
